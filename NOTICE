@@ -1,0 +1,25 @@
+sodawhite-AI-agent
+苏打白 Dev 通俗学习改写版
+
+Based on 深入理解 AI Agent：设计原理与工程实践
+Original author: Bojie Li (李博杰)
+Original project: https://github.com/bojieli/ai-agent-book
+Original copyright: Copyright 2025 Bojie Li
+Original license: Apache License, Version 2.0
+Source revision: dbc046eb896ac4e39aa19c7774c8bf49583b89a6
+
+This is an independently worded, illustrated learning adaptation, not the
+official edition or a verbatim mirror. The source chapter organization and
+technical explanations have been rewritten for readers with no AI or
+programming background. New teaching examples, diagrams, review questions
+and source-coverage notes have been added.
+
+The first chapter is the user's existing article draft, with repository-local
+image paths and an explicit publication-verification note. The supplied
+WeChat publication must be checked for later changes before claiming exact
+identity with the published article.
+
+Original notices are retained. LICENSE contains the source project's
+Apache License 2.0. Original images created for this learning adaptation
+are distinguished from upstream experiment screenshots. No result in this
+adaptation claims to reproduce all upstream experiments.

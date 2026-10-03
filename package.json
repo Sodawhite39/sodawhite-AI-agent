@@ -1,0 +1,15 @@
+{
+  "name": "sodawhite-ai-agent-book",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editable teaching diagrams for a plain-language AI Agent book",
+  "scripts": {
+    "diagrams": "node scripts/render_diagrams.mjs editorial"
+  },
+  "dependencies": {
+    "sharp": "0.34.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

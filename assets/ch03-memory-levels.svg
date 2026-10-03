@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="800" viewBox="0 0 1800 800" role="img" aria-labelledby="title desc"><title id="title">记忆能力有三层验收</title><desc id="desc">每层用真实可核对的答案测试，不凭自称记得判断。一层：基础回忆 取回明确事实 不猜缺失信息；二层：跨会话关联 区分人物与时间 找全相关记录；三层：主动服务 发现隐藏关联 提醒潜在问题</desc><defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#2563EB"/></marker></defs><rect width="100%" height="100%" fill="#FFFFFF"/><g font-family="Heiti SC,PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<rect x="90" y="68" width="11" height="58" rx="5" fill="#2563EB"/>
+<text x="125" y="113" font-size="52" fill="#15243D" font-weight="650">记忆能力有三层验收</text>
+<text x="125" y="175" font-size="32" fill="#52627C" font-weight="400">每层用真实可核对的答案测试，不凭自称记得判断</text>
+<rect x="90" y="250" width="500" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="132" cy="293" r="20" fill="#2563EB"/>
+<text x="126" y="301" font-size="23" fill="#FFFFFF" font-weight="600">1</text>
+<text x="118" y="356" font-size="36" fill="#15243D" font-weight="650">一层：基础回忆</text>
+<text x="118" y="412" font-size="30" fill="#52627C" font-weight="400">取回明确事实</text>
+<text x="118" y="457" font-size="30" fill="#52627C" font-weight="400">不猜缺失信息</text>
+<rect x="650" y="250" width="500" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="692" cy="293" r="20" fill="#2563EB"/>
+<text x="686" y="301" font-size="23" fill="#FFFFFF" font-weight="600">2</text>
+<text x="678" y="356" font-size="36" fill="#15243D" font-weight="650">二层：跨会话关联</text>
+<text x="678" y="412" font-size="30" fill="#52627C" font-weight="400">区分人物与时间</text>
+<text x="678" y="457" font-size="30" fill="#52627C" font-weight="400">找全相关记录</text>
+<rect x="1210" y="250" width="500" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="1252" cy="293" r="20" fill="#2563EB"/>
+<text x="1246" y="301" font-size="23" fill="#FFFFFF" font-weight="600">3</text>
+<text x="1238" y="356" font-size="36" fill="#15243D" font-weight="650">三层：主动服务</text>
+<text x="1238" y="412" font-size="30" fill="#52627C" font-weight="400">发现隐藏关联</text>
+<text x="1238" y="457" font-size="30" fill="#52627C" font-weight="400">提醒潜在问题</text>
+<line x1="90" y1="640" x2="1710" y2="640" stroke="#D7E0EF" stroke-width="2"/>
+<text x="90" y="695" font-size="31" fill="#52627C" font-weight="400">主动发现与提醒，不等于自动获得删除、付款或公开发布的授权。</text>
+<text x="90" y="749" font-size="25" fill="#52627C" font-weight="400">苏打白 Dev · AI Agent 通俗学习版</text>
+</g></svg>

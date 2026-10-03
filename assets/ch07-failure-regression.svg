@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1080" viewBox="0 0 1800 1080" role="img" aria-labelledby="title desc"><title id="title">从首个错误到两层回归测试</title><desc id="desc">根因与后果分开，修复与回归都要查。保存完整证据 任务、版本与观察 真实工具结果与状态；定位首个偏离 需求、看、想、做或验 记录步骤与置信度；冻结关键边界 首错前状态重放 允许集合与禁止动作；重跑完整任务 端到端结果与安全 检查旧任务没有退化</desc><defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#2563EB"/></marker></defs><rect width="100%" height="100%" fill="#FFFFFF"/><g font-family="Heiti SC,PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<rect x="90" y="68" width="11" height="58" rx="5" fill="#2563EB"/>
+<text x="125" y="113" font-size="52" fill="#15243D" font-weight="650">从首个错误到两层回归测试</text>
+<text x="125" y="175" font-size="32" fill="#52627C" font-weight="400">根因与后果分开，修复与回归都要查</text>
+<rect x="90" y="250" width="780" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="132" cy="293" r="20" fill="#2563EB"/>
+<text x="126" y="301" font-size="23" fill="#FFFFFF" font-weight="600">1</text>
+<text x="118" y="356" font-size="36" fill="#15243D" font-weight="650">保存完整证据</text>
+<text x="118" y="412" font-size="30" fill="#52627C" font-weight="400">任务、版本与观察</text>
+<text x="118" y="457" font-size="30" fill="#52627C" font-weight="400">真实工具结果与状态</text>
+<path d="M880 387.5H916" fill="none" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="930" y="250" width="780" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="972" cy="293" r="20" fill="#2563EB"/>
+<text x="966" y="301" font-size="23" fill="#FFFFFF" font-weight="600">2</text>
+<text x="958" y="356" font-size="36" fill="#15243D" font-weight="650">定位首个偏离</text>
+<text x="958" y="412" font-size="30" fill="#52627C" font-weight="400">需求、看、想、做或验</text>
+<text x="958" y="457" font-size="30" fill="#52627C" font-weight="400">记录步骤与置信度</text>
+<path d="M1320 535V591" fill="none" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="930" y="605" width="780" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="972" cy="648" r="20" fill="#2563EB"/>
+<text x="966" y="656" font-size="23" fill="#FFFFFF" font-weight="600">3</text>
+<text x="958" y="711" font-size="36" fill="#15243D" font-weight="650">冻结关键边界</text>
+<text x="958" y="767" font-size="30" fill="#52627C" font-weight="400">首错前状态重放</text>
+<text x="958" y="812" font-size="30" fill="#52627C" font-weight="400">允许集合与禁止动作</text>
+<path d="M920 742.5H884" fill="none" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="90" y="605" width="780" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="132" cy="648" r="20" fill="#2563EB"/>
+<text x="126" y="656" font-size="23" fill="#FFFFFF" font-weight="600">4</text>
+<text x="118" y="711" font-size="36" fill="#15243D" font-weight="650">重跑完整任务</text>
+<text x="118" y="767" font-size="30" fill="#52627C" font-weight="400">端到端结果与安全</text>
+<text x="118" y="812" font-size="30" fill="#52627C" font-weight="400">检查旧任务没有退化</text>
+<line x1="90" y1="920" x2="1710" y2="920" stroke="#D7E0EF" stroke-width="2"/>
+<text x="90" y="975" font-size="31" fill="#52627C" font-weight="400">看不到图片是观察通道问题，不能凭空归为 OCR 能力差</text>
+<text x="90" y="1029" font-size="25" fill="#52627C" font-weight="400">苏打白 Dev · AI Agent 通俗学习版</text>
+</g></svg>

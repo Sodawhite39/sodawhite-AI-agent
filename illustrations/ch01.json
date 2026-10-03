@@ -1,0 +1,5 @@
+[
+  {"filename":"ch01-agent-environment","title":"Agent 内部与外部环境","subtitle":"模型通过观察和行动与环境交互","kind":"cycle","returnLabel":"虚线回路：环境结果作为观察返回，Agent 再判断","nodes":[{"title":"Agent 内部","lines":["Model 决定下一步","Harness 组织与检查"]},{"title":"交互接口","lines":["行动向外发出","观察向内返回"]},{"title":"Environment 环境","lines":["文件、数据库、网页","用户与真实世界"]}],"footnote":"工具接口属于运行系统，真实文件状态属于环境"},
+  {"filename":"ch01-guardrails","title":"三层护栏各自检查什么","subtitle":"资料、动作与数据分别设边界","kind":"compare","nodes":[{"title":"上下文层","lines":["外部内容按资料处理","来源明确，指令分开"]},{"title":"执行层","lines":["校验权限与参数","高风险动作请人确认"]},{"title":"数据层","lines":["数据库强制访问范围","约束最终能改的数据"]}],"footnote":"多层防护降低风险，也要测试合法任务能否完成"},
+  {"filename":"ch01-two-test-sets","title":"更新要看两批测试","subtitle":"改善特殊情况，也保留原有能力","kind":"compare","nodes":[{"title":"修改提案","lines":["只改必要部分","记录版本与来源"]},{"title":"边界集","lines":["需要改善的例子","特殊日期能否读对"]},{"title":"保留集","lines":["不应损害的例子","普通照片仍正确分类"]}],"footnote":"两边都检查后再采用，失败时可回滚"}
+]

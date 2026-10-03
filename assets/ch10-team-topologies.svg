@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="800" viewBox="0 0 1800 800" role="img" aria-labelledby="title desc"><title id="title">三个协作结构怎样分工</title><desc id="desc">名称不能代替查看真实控制流。对等协作 提议与独立审核 反馈后有限修订；管理者编排 中心拆分和调度 工作者交回结构化成果；去中心化移交 成员自行选择接收者 预算与循环检测保护</desc><defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#2563EB"/></marker></defs><rect width="100%" height="100%" fill="#FFFFFF"/><g font-family="Heiti SC,PingFang SC,Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<rect x="90" y="68" width="11" height="58" rx="5" fill="#2563EB"/>
+<text x="125" y="113" font-size="52" fill="#15243D" font-weight="650">三个协作结构怎样分工</text>
+<text x="125" y="175" font-size="32" fill="#52627C" font-weight="400">名称不能代替查看真实控制流</text>
+<rect x="90" y="250" width="500" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="132" cy="293" r="20" fill="#2563EB"/>
+<text x="126" y="301" font-size="23" fill="#FFFFFF" font-weight="600">1</text>
+<text x="118" y="356" font-size="36" fill="#15243D" font-weight="650">对等协作</text>
+<text x="118" y="412" font-size="30" fill="#52627C" font-weight="400">提议与独立审核</text>
+<text x="118" y="457" font-size="30" fill="#52627C" font-weight="400">反馈后有限修订</text>
+<rect x="650" y="250" width="500" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="692" cy="293" r="20" fill="#2563EB"/>
+<text x="686" y="301" font-size="23" fill="#FFFFFF" font-weight="600">2</text>
+<text x="678" y="356" font-size="36" fill="#15243D" font-weight="650">管理者编排</text>
+<text x="678" y="412" font-size="30" fill="#52627C" font-weight="400">中心拆分和调度</text>
+<text x="678" y="457" font-size="30" fill="#52627C" font-weight="400">工作者交回结构化成果</text>
+<rect x="1210" y="250" width="500" height="275" rx="25" fill="#EEF4FF" stroke="#D7E0EF" stroke-width="2"/><circle cx="1252" cy="293" r="20" fill="#2563EB"/>
+<text x="1246" y="301" font-size="23" fill="#FFFFFF" font-weight="600">3</text>
+<text x="1238" y="356" font-size="36" fill="#15243D" font-weight="650">去中心化移交</text>
+<text x="1238" y="412" font-size="30" fill="#52627C" font-weight="400">成员自行选择接收者</text>
+<text x="1238" y="457" font-size="30" fill="#52627C" font-weight="400">预算与循环检测保护</text>
+<line x1="90" y1="640" x2="1710" y2="640" stroke="#D7E0EF" stroke-width="2"/>
+<text x="90" y="695" font-size="31" fill="#52627C" font-weight="400">是否值得多成员协作，要同时看信息增量和总成本</text>
+<text x="90" y="749" font-size="25" fill="#52627C" font-weight="400">苏打白 Dev · AI Agent 通俗学习版</text>
+</g></svg>
